@@ -1,0 +1,6 @@
+    2 - Teste de API - utilize https://petstore.swagger.com
+    2.1 - Cadastre o gato "Bichento"
+    2.2 - Cadastre a usuária "Hermione Granger"
+    2.3 - Venda o "Bichento" para a "Hermione Granger"
+    2.4 - Consulte o status do animal após a venda
+    2.5 - Consulte a ordem de venda do animal

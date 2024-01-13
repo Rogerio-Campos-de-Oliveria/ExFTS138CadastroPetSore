@@ -1,0 +1,12 @@
+[
+  {
+    "id": 3333,
+    "username": "Hermione Granger",
+    "firstName": "Hermione",
+    "lastName": "Granger",
+    "email": "hermione.granger@test.com",
+    "password": "123456",
+    "phone": "98585-9988",
+    "userStatus": 15
+  }
+]
